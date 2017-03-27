@@ -1,6 +1,8 @@
-# [Bedrock](https://roots.io/bedrock/)
-[![Packagist](https://img.shields.io/packagist/v/roots/bedrock.svg?style=flat-square)](https://packagist.org/packages/roots/bedrock)
-[![Build Status](https://img.shields.io/travis/roots/bedrock.svg?style=flat-square)](https://travis-ci.org/roots/bedrock)
+# Wordpress Boilerplate 
+
+My Wordpress Boilerplate based on [Bedrock](https://roots.io/bedrock/). I added my favorite plugins and settings.
+
+## Overview
 
 Bedrock is a modern WordPress stack that helps you get started with the best development tools and project structure.
 
