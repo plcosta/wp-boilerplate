@@ -38,7 +38,17 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.7.3",
     "oscarotero/env": "^1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",    
+    "wpackagist-plugin/google-tag-manager": "~1.0.2",
+    "wpackagist-plugin/googleanalytics": "~2.1.2",
+    "wpackagist-plugin/google-analytics-dashboard-for-wp": "~4.9.6.2",
+    "wpackagist-plugin/disqus-comment-system": "~2.86",
+    "wpackagist-plugin/maintenance": "~3.3",
+    "wpackagist-plugin/comments-from-facebook": "~1.7.0",    
+    "wpackagist-plugin/wp-smushit": "2.6.1",    
+    "wpackagist-plugin/wp-force-ssl": "~1.3",
+    "wpackagist-plugin/hide-my-wp": "~1.1.018",
+    "wpackagist-plugin/contact-form-7": "~4.7"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
