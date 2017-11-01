@@ -7,7 +7,7 @@ public/app/uploads/*
 !public/app/uploads/.gitkeep
 
 # WordPress
-public/wp
+public/core
 public/.htaccess
 
 # Dotenv
